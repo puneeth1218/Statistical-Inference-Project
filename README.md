@@ -35,4 +35,4 @@ The analysis is driven by `main.py`, which handles data preprocessing, feature e
 ### Dependencies
 Ensure you have the following libraries installed before running the script:
 ```bash
-pip install pandas numpy scipy matplotlib
+pip install -r requirements.txt
